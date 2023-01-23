@@ -2,15 +2,19 @@
 
 O ponto deste trabalho era criar um website estilo CRUD e fazer o estilo dele em css.
 
-Tecnologias utilizadas durante este trabalho:
+Aqui está disponível o código e a pasta das validações
+```
+## Tecnologias utilizadas durante este trabalho:
 
-ºLAMPP
+º LAMPP
 
-ºBootstrap
+º Bootstrap
 
-ºPHP
+º PHP
 
-ºGit
+º Git
+
+º https://validator.w3.org/nu/#textarea
 
 ```
 ## License
