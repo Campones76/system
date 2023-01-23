@@ -3,6 +3,8 @@
 O ponto deste trabalho era criar um website estilo CRUD e fazer o estilo dele em css.
 
 Aqui está disponível o código e a pasta das validações
+
+
 ```
 ## Tecnologias utilizadas durante este trabalho:
 
