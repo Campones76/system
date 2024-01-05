@@ -2,7 +2,7 @@ repo_name: Campones76/system
 report_id: 1211a2a6d0a3afd40f9f72bb0d3dc3a1
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-28T02:37:17+00:00'
+timestamp: '2024-01-05T08:14:45+00:00'
 requested_by: Campones76
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Campones76/system
   detection_source: Repo Metadata
 - name: Hack
   description: A programming language for HHVM that interoperates seamlessly with
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/Campones76/system
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Campones76/system/blob/main/bootstrap-5.3.0-alpha1-dist/js/bootstrap.bundle.js
   detection_source: bootstrap-5.3.0-alpha1-dist/js/bootstrap.bundle.js
   last_updated_by: Gabriel.F
   last_updated_on: 2023-01-23 15:26:34.000000000 Z
@@ -48,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/Campones76/system
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -57,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/Campones76/system/blob/main/testy.sql
   detection_source: testy.sql
   last_updated_by: Gabriel.F
   last_updated_on: 2023-01-23 15:26:34.000000000 Z
@@ -68,4 +73,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Campones76/system
   detection_source: Repo Metadata
